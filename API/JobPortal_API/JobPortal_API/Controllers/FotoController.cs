@@ -34,18 +34,18 @@ namespace JobPortal_API.Controllers
             {
                 return NotFound();
             }
-            var foto = _context.Foto.ProjectTo<FotoDTO>(_mapper.ConfigurationProvider).FirstOrDefaultAsync(m => m.IdCandidatoFoto == id);
+            var foto = await _context.Foto.ProjectTo<FotoDTO>(_mapper.ConfigurationProvider).FirstOrDefaultAsync(m => m.IdCandidatoFoto == id);
             if (foto == null)
             {
                 return NotFound();
             }
 
-            return await foto;
+            return foto;
         }
        
         //Criar foto
         [HttpPost]
-        public async Task<ActionResult> PostFoto(FotoDTO fotoDTO)
+        public async Task<ActionResult<FotoDTO>> PostFoto(FotoDTO fotoDTO)
         {
             var foto = _mapper.Map<Foto>(fotoDTO);
             _context.Add(foto);

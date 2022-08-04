@@ -21,7 +21,11 @@ namespace teste_cliente.Controllers
 
             return View(fotoList);
         }
-
+        [HttpGet]
+        public ViewResult Create()
+        {
+            return View();
+        }
         [HttpPost]
         public async Task<IActionResult> Create(Models.Foto foto, IFormFile file)
         {

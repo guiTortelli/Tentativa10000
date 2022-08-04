@@ -2645,24 +2645,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jpluc\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\jplucio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpluc\\OneDrive\\Área de Trabalho\\Tentativa 10000\\API\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj",
+      "projectUniqueName": "C:\\Users\\jplucio\\Documents\\PrjFinal\\Tentativa10000\\API\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj",
       "projectName": "JobPortal_API",
-      "projectPath": "C:\\Users\\jpluc\\OneDrive\\Área de Trabalho\\Tentativa 10000\\API\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj",
-      "packagesPath": "C:\\Users\\jpluc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpluc\\OneDrive\\Área de Trabalho\\Tentativa 10000\\API\\JobPortal_API\\JobPortal_API\\obj\\",
+      "projectPath": "C:\\Users\\jplucio\\Documents\\PrjFinal\\Tentativa10000\\API\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj",
+      "packagesPath": "C:\\Users\\jplucio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jplucio\\Documents\\PrjFinal\\Tentativa10000\\API\\JobPortal_API\\JobPortal_API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jpluc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\jplucio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
