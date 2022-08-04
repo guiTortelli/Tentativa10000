@@ -8,6 +8,6 @@ namespace teste_cliente.Models
         public int IdCandidatoFoto { get; set; }
         [ForeignKey("IdCandidatoFoto")]
         public virtual Candidato Candidato { get; set; }
-        public byte[] FotoPerfil { get; set; }
+        public byte[]? FotoPerfil { get; set; }
     }
 }

@@ -25,6 +25,9 @@ namespace JobPortal_API.Utilities
 
             CreateMap<Foto, FotoDTO>();
             CreateMap<FotoDTO, Foto>();
+
+            CreateMap<LogoEmpresa, LogoEmpresaDTO>();
+            CreateMap<LogoEmpresaDTO, LogoEmpresa>();
         }
     }
 }

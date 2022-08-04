@@ -19,7 +19,12 @@ namespace JobPortal_API.Models
 
         public DateTime DataAplicacao { get; set; } = DateTime.Now;
 
-        public string? AplicacaoAceite { get; set; } = null;
+        public enum AplicacaoAceite
+        {
+            Null = 0,
+            Selecionar = 1,
+            Recusar = 2
+        };
 
     }
 }

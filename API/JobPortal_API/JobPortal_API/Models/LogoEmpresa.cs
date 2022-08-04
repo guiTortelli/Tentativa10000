@@ -8,6 +8,6 @@ namespace JobPortal_API.Models
         public int IdEmpresaFoto { get; set; }
         [ForeignKey("IdEmpresaFoto")]
         public virtual Empresa empresa { get; set; }
-        public byte[] Logo { get; set; }
+        public byte[]? Logo { get; set; }
     }
 }

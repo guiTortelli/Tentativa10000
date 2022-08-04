@@ -1,4 +1,6 @@
-﻿namespace JobPortal_API.DTOs
+﻿using static JobPortal_API.Models.AplicacaoTrabalho;
+
+namespace JobPortal_API.DTOs
 {
     public class AplicacaoTrabalhoDTO
     {
@@ -9,6 +11,7 @@
         public int IdCandidato { get; set; }
         public DateTime DataAplicacao { get; set; } = DateTime.Now;
 
-        public string? AplicacaoAceite { get; set; } = null;
+        public AplicacaoAceite aplicacaoAceite { get; set; }
+
     }
 }
