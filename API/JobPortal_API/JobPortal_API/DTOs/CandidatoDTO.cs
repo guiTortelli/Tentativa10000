@@ -13,6 +13,5 @@ namespace JobPortal_API.DTOs
         public DateTime? DataNasc { get; set; }
         public string? LinkedIn { get; set; }
         public string? Facebook { get; set; }
-        public byte[]? FileCV { get; set; }
     }
 }

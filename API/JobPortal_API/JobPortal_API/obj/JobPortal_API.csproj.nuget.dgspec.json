@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jplucio\\Documents\\PrjFinal\\Tentativa10000\\API\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj": {}
+    "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa 10001\\API\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jplucio\\Documents\\PrjFinal\\Tentativa10000\\API\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj": {
+    "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa 10001\\API\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jplucio\\Documents\\PrjFinal\\Tentativa10000\\API\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj",
+        "projectUniqueName": "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa 10001\\API\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj",
         "projectName": "JobPortal_API",
-        "projectPath": "C:\\Users\\jplucio\\Documents\\PrjFinal\\Tentativa10000\\API\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj",
-        "packagesPath": "C:\\Users\\jplucio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jplucio\\Documents\\PrjFinal\\Tentativa10000\\API\\JobPortal_API\\JobPortal_API\\obj\\",
+        "projectPath": "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa 10001\\API\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj",
+        "packagesPath": "C:\\Users\\jpluc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa 10001\\API\\JobPortal_API\\JobPortal_API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jplucio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jpluc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

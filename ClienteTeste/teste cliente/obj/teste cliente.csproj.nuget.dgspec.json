@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jplucio\\Documents\\PrjFinal\\Tentativa10000\\ClienteTeste\\teste cliente\\teste cliente.csproj": {}
+    "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa 10001\\ClienteTeste\\teste cliente\\teste cliente.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jplucio\\Documents\\PrjFinal\\Tentativa10000\\ClienteTeste\\teste cliente\\teste cliente.csproj": {
+    "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa 10001\\ClienteTeste\\teste cliente\\teste cliente.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jplucio\\Documents\\PrjFinal\\Tentativa10000\\ClienteTeste\\teste cliente\\teste cliente.csproj",
+        "projectUniqueName": "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa 10001\\ClienteTeste\\teste cliente\\teste cliente.csproj",
         "projectName": "teste cliente",
-        "projectPath": "C:\\Users\\jplucio\\Documents\\PrjFinal\\Tentativa10000\\ClienteTeste\\teste cliente\\teste cliente.csproj",
-        "packagesPath": "C:\\Users\\jplucio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jplucio\\Documents\\PrjFinal\\Tentativa10000\\ClienteTeste\\teste cliente\\obj\\",
+        "projectPath": "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa 10001\\ClienteTeste\\teste cliente\\teste cliente.csproj",
+        "packagesPath": "C:\\Users\\jpluc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa 10001\\ClienteTeste\\teste cliente\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jplucio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jpluc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

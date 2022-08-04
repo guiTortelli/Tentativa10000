@@ -17,9 +17,6 @@ namespace teste_cliente.Models
         public DateTime? DataNasc { get; set; }
         public string? LinkedIn { get; set; }
         public string? Facebook { get; set; }
-        public byte[]? FileCV { get; set; }
-
-
         public virtual ICollection<AplicacaoTrabalho>? AplicacaoTrabalho { get; set; }
         public virtual ICollection<CV>? CV { get; set; }
         public virtual ICollection<Foto>? Foto { get; set; }

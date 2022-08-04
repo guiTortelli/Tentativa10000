@@ -9,6 +9,6 @@
         public int IdCandidato { get; set; }
         public DateTime DataAplicacao { get; set; } = DateTime.Now;
 
-        public bool aplicacaoAceite { get; set; } = false;
+        public string? AplicacaoAceite { get; set; } = null;
     }
 }
