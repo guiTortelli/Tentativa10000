@@ -30,6 +30,9 @@ namespace JobPortal_API.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdAplicacao"), 1L, 1);
 
+                    b.Property<string>("AplicacaoAceite")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<DateTime>("DataAplicacao")
                         .HasColumnType("datetime2");
 

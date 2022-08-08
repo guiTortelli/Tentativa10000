@@ -11,7 +11,7 @@ namespace JobPortal_API.DTOs
         public int IdCandidato { get; set; }
         public DateTime DataAplicacao { get; set; } = DateTime.Now;
 
-        public AplicacaoAceite aplicacaoAceite { get; set; }
+        public string? AplicacaoAceite { get; set; }
 
     }
 }

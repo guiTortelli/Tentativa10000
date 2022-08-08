@@ -36,9 +36,6 @@
             <th>
                 @Html.DisplayNameFor(model => model.Facebook)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.FileCV)
-            </th>
             <th></th>
         </tr>
     </thead>
@@ -70,12 +67,9 @@
                 @Html.DisplayFor(modelItem => item.Facebook)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.FileCV)
-            </td>
-            <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                @Html.ActionLink("Edit", "Edit", new {  id=item.IdCandidato  }) |
+                @Html.ActionLink("Details", "Details", new {  id=item.IdCandidato  }) |
+                @Html.ActionLink("Delete", "Delete", new {  id=item.IdCandidato  })
             </td>
         </tr>
 }

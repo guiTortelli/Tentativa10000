@@ -15,7 +15,6 @@ namespace JobPortal_API.Models
         public string? Morada { get; set; }
         [Column(TypeName = "Date")]
         public DateTime? DataNasc { get; set; }
-        //public DateOnly DataNascimento { get; set; }
         public string? LinkedIn { get; set; }
         public string? Facebook { get; set; }
 

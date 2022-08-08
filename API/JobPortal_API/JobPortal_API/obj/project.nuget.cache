@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4cYPDwaegZoU4NPPqKIoqZjaJobQmuLhmobp626kKhMcgffw6Woa4ocKqKb+3D5zz2PSbcTMiwb52Wf9owGbug==",
+  "dgSpecHash": "nc6NWUlwX9wT6VXsuIlxJtijGZVuMCYoQU+U80oUn2/sxmrvfLQsIpO1LKTuZcnmoHVuBOndlRBmhNY6BY39rA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa 10001\\API\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj",
+  "projectFilePath": "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa10000\\API\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jpluc\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\jpluc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

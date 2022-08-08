@@ -19,11 +19,6 @@ namespace teste_cliente.Models
 
         public DateTime DataAplicacao { get; set; } = DateTime.Now;
 
-        public enum AplicacaoAceite
-        {
-            Null = 0,
-            Selecionar = 1,
-            Recusar = 2
-        };
+        public string? AplicacaoAceite { get; set; } = null;
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G+vbG6tzkfMcoUZqL2g5hGs/FQRn8UAu0zP0/xvQi0lalfhwM2LE8jHbCNNTG/Vk+BmY8D2l5io7o/dMP0M37Q==",
+  "dgSpecHash": "svwy5mnPKh6dyCMJr/4FF+Fx5hK8qOjO2nc6BO3DT/P81QEp97dK61jtuqszxp8Ro7rbIe6LiMuSuQGjk8Hyfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa 10001\\ClienteTeste\\teste cliente\\teste cliente.csproj",
+  "projectFilePath": "C:\\Users\\jpluc\\OneDrive\\Área de Trabalho\\Tentativa10000\\ClienteTeste\\teste cliente\\teste cliente.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jpluc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jpluc\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

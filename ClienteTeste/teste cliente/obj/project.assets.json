@@ -10736,11 +10736,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa 10001\\ClienteTeste\\teste cliente\\teste cliente.csproj",
+      "projectUniqueName": "C:\\Users\\jpluc\\OneDrive\\Área de Trabalho\\Tentativa10000\\ClienteTeste\\teste cliente\\teste cliente.csproj",
       "projectName": "teste cliente",
-      "projectPath": "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa 10001\\ClienteTeste\\teste cliente\\teste cliente.csproj",
+      "projectPath": "C:\\Users\\jpluc\\OneDrive\\Área de Trabalho\\Tentativa10000\\ClienteTeste\\teste cliente\\teste cliente.csproj",
       "packagesPath": "C:\\Users\\jpluc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa 10001\\ClienteTeste\\teste cliente\\obj\\",
+      "outputPath": "C:\\Users\\jpluc\\OneDrive\\Área de Trabalho\\Tentativa10000\\ClienteTeste\\teste cliente\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10834,7 +10834,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   },
